@@ -1,0 +1,5 @@
+* Sample Agent
+* Version : 0.01
+* Build : 1
+
+ 해당 프로그램은 윈도우 서비스로 동작합니다.

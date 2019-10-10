@@ -1,0 +1,5 @@
+* Sample Agent
+* Version : 0.01
+* Build : 1
+
+  The program works as a Windows service.
